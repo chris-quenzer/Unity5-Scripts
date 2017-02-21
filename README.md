@@ -1,5 +1,4 @@
 # Unity5-Scripts
-Published
 
 Welcome! These are all of the C# scripts from my personal Unity projects.
 
